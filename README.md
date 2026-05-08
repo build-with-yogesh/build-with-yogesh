@@ -1,10 +1,11 @@
 #                                                 Hi there 👋 I'm Yogesh
 
 ## 🚀 About Me
-- 💻 Java Developer
-- 🌱 Learning Data Structures & Algorithms
-- 🔥 Interested in Backend Development
-
+- 💻 Java & Spring Boot Developer
+- 🔧 Building scalable REST APIs and backend systems
+- 📚 Currently learning System Design and AI Tools
+- 🚀 Passionate about Backend Development and clean architecture
+- 🌱 Continuously improving problem-solving and software engineering skills
 ---
 
 ## 🛠️ Tech Stack
