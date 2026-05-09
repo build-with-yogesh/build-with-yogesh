@@ -1,4 +1,12 @@
-#                                                 Hi there 👋 I'm Yogesh
+# <h1 align="center">Hi there 👋 I'm Yogesh</h1>
+
+<h3 align="center">
+Java Developer | Spring Boot Developer | REST API Developer
+</h3>
+<p align="center">
+🌱 Learning System Design & AI Tools <br>
+🚀 Passionate about Backend Development & Scalable Applications
+</p>
 
 ## 🚀 About Me
 - 💻 Java & Spring Boot Developer
@@ -8,6 +16,41 @@
 - 🌱 Continuously improving problem-solving and software engineering skills
 ---
 
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+- Java
+- SQL
+- JavaScript
+- Dart
+
+### 🚀 Backend
+- Spring Boot
+- REST APIs
+- Microservices
+- Hibernate/JPA
+
+### 🗄 Database
+- PostgreSQL
+- MySQL
+- MongoDB
+- H2 Database
+
+### ☁ Tools & Technologies
+- Git & GitHub
+- Docker
+- Kafka
+- Redis
+- Maven
+- IntelliJ IDEA
+- Postman
+
+### 📱 Mobile Development
+- Flutter
+
+---
+
+<!-- comment 
 ## 🛠️ Tech Stack
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![java](https://skillicons.dev/icons?i=java)
@@ -31,6 +74,7 @@
 
 
 ---
+-->
 
 ## 📊 GitHub Stats
 
