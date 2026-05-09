@@ -56,8 +56,9 @@ Java CRUD console application.
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINK)
-[GitHub](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yogesh-keshari)
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/build-with-yogesh)
 
 ---
 
